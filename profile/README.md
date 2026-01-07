@@ -1,4 +1,4 @@
-## Hi there 👋
+Home of the Waccamaw Indian People, a state recognized tribe in South Carolina. This org houses various microservices and IaC that powers waccamaw.org. If your interested to learn more or contribute, please [reach out](https://waccamaw.org/contact)!
 
 <!--
 
